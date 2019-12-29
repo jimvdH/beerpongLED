@@ -1,2 +1,2 @@
-# beerpongLED
-interactive beer pong
+# Beerpongled
+ awesome interactive beerpong 
